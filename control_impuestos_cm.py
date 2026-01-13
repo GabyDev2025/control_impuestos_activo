@@ -6,6 +6,8 @@ from datetime import datetime
 from openpyxl.styles import numbers
 import os
 
+# --- version 01.2026 ---
+
 # --- Configuración ---
 CUIT_BUSCADO = "30505112578"
 salida_excel = r"Z:\IMPUESTOS\Control_impuestos\control_retper_activo\retenciones_percepciones_08.2025.xlsx"
